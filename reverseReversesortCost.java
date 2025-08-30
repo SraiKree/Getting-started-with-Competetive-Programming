@@ -1,5 +1,4 @@
 // Given size n and cost c, find n distinct integers between 1 and n such that cost is exactly c
-import java.io.*;
 import java.util.*;
 class reverseReversesortCost {
     static LinkedList <Integer> construct(int N, int C, int m) {              //Recursively builds the permutation by deciding position of minimum elememnt m
